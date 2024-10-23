@@ -1,0 +1,1 @@
+C:\Users\lenovo\source\repos\BookReservationApp\bookreservationapp.client\obj\Debug\bookreservationapp.client.esproj.CoreCompileInputs.cache

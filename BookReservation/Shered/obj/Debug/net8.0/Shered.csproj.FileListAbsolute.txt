@@ -1,0 +1,11 @@
+C:\Users\lenovo\source\repos\BookReservation\Shered\bin\Debug\net8.0\Shered.deps.json
+C:\Users\lenovo\source\repos\BookReservation\Shered\bin\Debug\net8.0\Shered.dll
+C:\Users\lenovo\source\repos\BookReservation\Shered\bin\Debug\net8.0\Shered.pdb
+C:\Users\lenovo\source\repos\BookReservation\Shered\obj\Debug\net8.0\Shered.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\source\repos\BookReservation\Shered\obj\Debug\net8.0\Shered.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\BookReservation\Shered\obj\Debug\net8.0\Shered.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\BookReservation\Shered\obj\Debug\net8.0\Shered.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\BookReservation\Shered\obj\Debug\net8.0\Shered.dll
+C:\Users\lenovo\source\repos\BookReservation\Shered\obj\Debug\net8.0\refint\Shered.dll
+C:\Users\lenovo\source\repos\BookReservation\Shered\obj\Debug\net8.0\Shered.pdb
+C:\Users\lenovo\source\repos\BookReservation\Shered\obj\Debug\net8.0\ref\Shered.dll
